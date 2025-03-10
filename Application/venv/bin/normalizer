@@ -1,4 +1,4 @@
-#!/home/lutega/Documents/Dashboard_WaterMonitoring/Logging/venv/bin/python3
+#!/Users/lutfito/Documents/Temp/water_mon/WaterMonitoringITB-Dashboard/Application/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
